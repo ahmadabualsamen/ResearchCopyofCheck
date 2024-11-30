@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TdJ0UX_rZ0SXmGoLq9wuhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7b455165-23c5-4b2f-aa8f-c03f566df399" CvElementArea="1388, 7, 23, 22" CvType="CloseButton" DesignTimeRectangle="1372, 1, 60, 37" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Close' role='push button' automationid='' check:text='Close' /&gt;" Guid="b79d9a7a-95c8-4b0b-b105-c5e8ec8ba982" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' cls='HwndWrapper*' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="15c0ea2631d6aa20ce665ac1d545f585.png" xmlns="">0-IwjpqLuJ0-0wY_TAE16Og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

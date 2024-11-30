@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CF60bF5vBEatxoIda-sfnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/103653237" CVScreenId="fa35e71c-606c-4cc2-8d3d-725bce90dcd8" CvTextArea="936, 572, 87, 16" CvType="AnyWordGroup" DesignTimeRectangle="936, 572, 88, 16" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="215d7588-41eb-4906-8454-987ca74fe343" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fa35e71c-606c-4cc2-8d3d-725bce90dcd8" CvTextArea="885, 572, 46, 16" CvTextArgument="WIID:" CvType="Text" DesignTimeRectangle="887, 572, 45, 20" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='WIID:' check:innerText='WIID:' /&gt;" Guid="0e0969ca-f9e0-4272-87fa-723f9400c16b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="51c5dc67b4e15d72cc79d299085db180.png" xmlns="">0KPItafUUxk2eSGRS9-Gs9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VADGrbgOikCWDWsEmYNQSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="48ca5157-228c-4f69-9dde-eeb642741c96" CvTextArea="192, 253, 77, 15" CvTextArgument="23/11/2024" CvType="Text" DesignTimeRectangle="191, 248, 220, 26" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='dateTimePicker1' /&gt;" Guid="69fa86b0-36e5-4039-90e0-628057831684" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchCheckCopy' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="48ca5157-228c-4f69-9dde-eeb642741c96" CvTextArea="39, 255, 80, 15" CvTextArgument="Check Date" CvType="Text" DesignTimeRectangle="37, 252, 87, 19" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label2' /&gt;&lt;ctrl name='Check Date' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='label2' /&gt;&lt;ctrl name='Check Date' role='text' automationid='' check:text='Check Date' /&gt;" Guid="763d9044-c3b6-498e-aa8c-c62e26e9ac2e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c9db832a944e348987891a5c1ea7d37a.png" xmlns="">0BKXvZOtO2EuF417mV_40KQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

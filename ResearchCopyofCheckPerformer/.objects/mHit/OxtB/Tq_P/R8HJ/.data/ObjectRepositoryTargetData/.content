@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YGx54ubHi0qwdWX_NeKsEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/103653235" CVScreenId="e092c57a-83ad-40e0-8edf-6aed271ce1b5" CvElementArea="382, 595, 259, 45" CvTextArea="419, 607, 205, 21" CvTextArgument="Download Check Request" CvType="Button" DesignTimeRectangle="383, 597, 256, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' Download Check Request' tag='BUTTON' type='button' class='btn btn-primary' check:innerText='Download Check Request' /&gt;" Guid="b5cec51a-48e3-41fb-a654-eb64155826a3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e092c57a-83ad-40e0-8edf-6aed271ce1b5" CvTextArea="381, 535, 156, 26" CvTextArgument="Check Request" CvType="Text" DesignTimeRectangle="383, 535, 466, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H4' /&gt;" Guid="c4d5f690-83ac-4b38-b4e9-d0a50b9e80c3" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a3e5b25bafd5bd5d1b31e38d0644cff2.png" xmlns="">0TvEjnJFIRU2GlDRfgdXdsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

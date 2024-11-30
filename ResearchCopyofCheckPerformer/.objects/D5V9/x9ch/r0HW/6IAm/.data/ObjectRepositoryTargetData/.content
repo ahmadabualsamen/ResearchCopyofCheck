@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Xi2bnDbKeE6mYHCnGbMyNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/search" CVScreenId="b51240cc-10bf-496f-bb7b-4cb31aaa3461" CvElementArea="332, 585, 611, 47" CvType="InputBox" DesignTimeRectangle="334, 587, 607, 43" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='checkDay' tag='INPUT' type='text' class='form-control' aaname='' /&gt;" Guid="7362c487-fa7b-4e97-93a2-2d97acc7c631" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Client Check' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b51240cc-10bf-496f-bb7b-4cb31aaa3461" CvTextArea="334, 559, 33, 21" CvTextArgument="Day" CvType="Text" DesignTimeRectangle="334, 556, 33, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Day' tag='LABEL' type='' class='' check:innerText='Day' /&gt;" Guid="4621aeba-06db-43ce-9277-778e3b143144" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="02c512ef1b7a5c92db2b36eda26cfe5c.png" xmlns="">0ryJ0H2ZmqEeOphVO3R2nbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

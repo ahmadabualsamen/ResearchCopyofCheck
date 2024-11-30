@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tkS70xU4BE6Pm8dHpjTTdg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/upload" CVScreenId="375932dc-4f0c-40ea-859f-5e0120f75e82" CvElementArea="695, 542, 109, 33" CvTextArea="730, 551, 38, 16" CvTextArgument="Open" CvType="Button" DesignTimeRectangle="696, 543, 110, 33" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' check:text='&amp;amp;Open' /&gt;" Guid="a2d092ce-fb3d-43b6-a7d6-5cbf1fbb5d54" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="375932dc-4f0c-40ea-859f-5e0120f75e82" CvElementArea="527, 541, 153, 34" CvTextArea="535, 550, 137, 17" CvTextArgument="Upload from mobile" CvType="Button" DesignTimeRectangle="529, 543, 152, 33" ElementType="Button" FullSelectorArgument="&lt;wnd cls='Button' title=' Upload from mobile ' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;wnd cls='Button' title=' Upload from mobile ' check:text='Upload from mobile' /&gt;" Guid="22572933-9e2f-4b9a-8f72-5cf9b74d413d" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d70d704f71f6ff8aa3a2c10eb769d42b.png" xmlns="">0fD-AWtDDGEmCMMz56ALEcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

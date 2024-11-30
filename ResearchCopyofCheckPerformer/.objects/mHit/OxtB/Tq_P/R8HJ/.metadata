@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Download Check Request",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "R8HJI3SPt0CSjNr4_vEvTw",
+  "Reference": "xgNUePg0c0GvYwSMBhxq8Q/R8HJI3SPt0CSjNr4_vEvTw",
+  "ParentRef": "xgNUePg0c0GvYwSMBhxq8Q/Tq_PeVk7sEKAjl1KQHb2Hw",
+  "Created": "2024-11-24T06:54:20.0613195Z",
+  "Updated": "2024-11-24T06:54:20.0613195Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

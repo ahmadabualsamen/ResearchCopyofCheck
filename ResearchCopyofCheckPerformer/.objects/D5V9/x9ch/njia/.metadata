@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Check-Request-For-97654349.pdf(1)",
+  "Type": "Screen",
+  "Id": "njiarq3bZkOwLa4qaezCnw",
+  "Reference": "xgNUePg0c0GvYwSMBhxq8Q/njiarq3bZkOwLa4qaezCnw",
+  "ParentRef": "xgNUePg0c0GvYwSMBhxq8Q/x9chZ9P6kUi_jy-fjGCdVA",
+  "Created": "2024-11-23T06:23:48.9369755Z",
+  "Updated": "2024-11-23T06:23:48.9369755Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
